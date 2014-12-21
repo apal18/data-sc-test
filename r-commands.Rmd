@@ -1,3 +1,3 @@
-# Find r-help
+# Find any r function
 ?rnorm
 help.search("rnorm") <- spelling need not be correct, it will still search
