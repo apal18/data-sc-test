@@ -1,3 +1,9 @@
-# Find any r function
-?rnorm
-help.search("rnorm") <- spelling need not be correct, it will still search
+#### This page lists some useful getting-started R commands.
+
+There are useful functions in R to search for any function and look up its documentations. For e.g. to find a function rnorm, try the following commands:
+
+  +  rnorm 
+  +  help.search("rnorm") 
+
+
+This is
